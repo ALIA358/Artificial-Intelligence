@@ -1,6 +1,6 @@
 # Artificial Intelligence — Course Labs & Semester Project
 
-This repository contains lab assignments, practical implementations, and the semester project for the **Artificial Intelligence** course[cite: 1, 2]. It covers core AI concepts ranging from symbolic logic programming and machine learning to deep learning and intelligent agent systems.
+This repository contains lab assignments, practical implementations, and the semester project for the **Artificial Intelligence** course. It covers core AI concepts ranging from symbolic logic programming and machine learning to deep learning and intelligent agent systems.
 
 ---
 
